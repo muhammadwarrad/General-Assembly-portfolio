@@ -1,0 +1,23 @@
+
+h1{
+    text-align: center;
+}
+.Everyone{
+    font-size: x-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    
+}
+.Jose {
+    text-align: center;
+color: crimson;
+}
+.Muhammad{
+    text-align: center;
+    color: gold;
+}
+.Edward{
+    text-align: center;
+
+}
